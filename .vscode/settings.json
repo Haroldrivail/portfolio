@@ -1,0 +1,6 @@
+{
+  "workbench.tree.indent": 4,
+  "bladeFormatter.format.indentInnerHtml": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.indentHandlebars": true
+}
